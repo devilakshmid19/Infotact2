@@ -15,7 +15,7 @@ Both projects utilize **machine learning, clustering techniques, and data analys
 - **Dataset Used:**  
   - E-commerce transaction data  
   - Customer demographics dataset  
-- **Notebook:** [`https://github.com/devilakshmid19/Infotact/blob/main/Infotact/project1/infotact-project1-checkpoint.ipynb`](infotact-project1-checkpoint.ipynb)  
+- **Notebook:** [`infotact-project1-checkpoint.ipynb`](https://github.com/devilakshmid19/Infotact/blob/main/Infotact/project1/infotact-project1-checkpoint.ipynb)  
 
 #### 📌 Features:  
 ✅ **Demographic Analysis** – Age distribution, gender proportions, and income levels.  
