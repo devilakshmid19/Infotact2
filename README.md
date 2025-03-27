@@ -1,8 +1,8 @@
-# 🛒📢 Customer Segmentation & 🎤 Speech Detection Projects  
+# 🛒📢 Customer Segmentation & 🎤 Speech Emotion Recognition Projects  
 
 This repository contains two data science projects:  
 1. **Customer Segmentation** - Categorizing customers into meaningful groups for better marketing strategies.  
-2. **Speech Detection** - Analyzing speech audio to extract emotions, transcribe text, and improve voice recognition.  
+2. **Speech Emotion Recognition** - Analyzing speech to detect emotions, transcribe text, and improve voice recognition.  
 
 Both projects utilize **machine learning, clustering techniques, and data analysis** for business and AI-driven applications.  
 
@@ -27,7 +27,7 @@ Both projects utilize **machine learning, clustering techniques, and data analys
 
 ---
 
-### 🔹 2. Speech Detection  
+### 🔹 2. Speech Emotion Recognition  
 - **Description:** This project processes speech data to detect emotions, transcribe speech, and improve voice recognition. It can be used for **virtual assistants, sentiment analysis, and voice-controlled systems**.  
 - **Dataset Used:**  
   - **RAVDESS** (Ryerson Audio-Visual Database of Emotional Speech and Song)  
