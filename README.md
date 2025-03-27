@@ -32,7 +32,7 @@ Both projects utilize **machine learning, clustering techniques, and data analys
 - **Dataset Used:**  
   - **RAVDESS** (Ryerson Audio-Visual Database of Emotional Speech and Song)  
   - **CREMA-D** (Crowd-Sourced Emotional Multimodal Actors Dataset)  
-- **Notebook:** [`speech-emotion-recognition.ipynb`](speech-emotion-recognition.ipynb)  
+- **Notebook:** [`speech-emotion-recognition.ipynb`](https://github.com/devilakshmid19/Infotact/blob/main/Infotact/project2/speech-emotion-recognition.ipynb)  
 
 #### 📌 Features:  
 ✅ **Acoustic Analysis** – Extracts pitch, tone, and volume from speech.  
@@ -48,5 +48,5 @@ Both projects utilize **machine learning, clustering techniques, and data analys
 
 1. **Clone the repository:**  
    ```sh
-   git clone https://github.com/your-username/data-science-projects.git
+   git clone https://github.com/devilakshmid19/infotact.git
    cd data-science-projects
