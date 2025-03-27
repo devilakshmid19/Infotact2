@@ -15,7 +15,7 @@ Both projects utilize **machine learning, clustering techniques, and data analys
 - **Dataset Used:**  
   - E-commerce transaction data  
   - Customer demographics dataset  
-- **Notebook:** [`customer-segmentation.ipynb`](customer-segmentation.ipynb)  
+- **Notebook:** [`infotact-project1-checkpoint.ipynb`](infotact-project1-checkpoint.ipynb)  
 
 #### 📌 Features:  
 ✅ **Demographic Analysis** – Age distribution, gender proportions, and income levels.  
@@ -32,7 +32,7 @@ Both projects utilize **machine learning, clustering techniques, and data analys
 - **Dataset Used:**  
   - **RAVDESS** (Ryerson Audio-Visual Database of Emotional Speech and Song)  
   - **CREMA-D** (Crowd-Sourced Emotional Multimodal Actors Dataset)  
-- **Notebook:** [`speech-detection.ipynb`](speech-detection.ipynb)  
+- **Notebook:** [`speech-emotion-recognition.ipynb`](speech-emotion-recognition.ipynb)  
 
 #### 📌 Features:  
 ✅ **Acoustic Analysis** – Extracts pitch, tone, and volume from speech.  
